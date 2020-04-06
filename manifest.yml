@@ -1,0 +1,5 @@
+---
+applications:
+ - name: zxilly
+   random-route: true
+   memory: 128M
