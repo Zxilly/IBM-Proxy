@@ -1,1 +1,1 @@
-web: v2ray -config config.json
+web: ./v2ray -config config.json
